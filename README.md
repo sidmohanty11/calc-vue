@@ -1,5 +1,7 @@
 # myapp
 
+![calc-vue](https://user-images.githubusercontent.com/73601258/128076380-0fce6bdf-e7a8-4c6a-b450-ad4558268da0.png)
+
 ## Project setup
 ```
 yarn install
